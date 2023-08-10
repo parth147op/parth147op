@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..%26hearts;%2B%2B;Self-taught+;Computer+Science+Student;ML%2FAI+Enthusiast;Backend+Engineer;Active+Learner%2FResearcher;Love+to+learn+new+stuffs..%3C3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&hearts;%2B%2B;Self-taught+;Computer+Science+Student;ML%2FAI+Enthusiast;Backend+Engineer;Active+Learner%2FResearcher;Love+to+learn+new+stuffs..%3C3">
   </a>
 </p>
 
@@ -15,7 +15,6 @@
 
 	
 
-<picture> <img align="right" src="https://github.com/parth147op/parth147op/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
@@ -41,7 +40,7 @@
 
 <br>   
  
- **ML/AI**:
+- **ML/AI**:
 
    ![Pytorch](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=pytorch&logoColor=white)
    ![Jupyter](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=jupyter&logoColor=white)
