@@ -42,10 +42,10 @@
  
 - **ML/AI**:
 
-   ![Pytorch](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-   ![Jupyter](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-   ![Scikitlearn](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=scikitlearn&logoColor=black)
-   ![Tensorflow](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=tensorflow&logoColor=black)
+   ![Pytorch](https://img.shields.io/badge/pytorch%20-%23E34F26.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+   ![Jupyter](https://img.shields.io/badge/jupyter%20-%231572B6.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+   ![Scikitlearn](https://img.shields.io/badge/scikitlearn%20-%23F7DF1E.svg?style=for-the-badge&logo=scikitlearn&logoColor=black)
+   ![Tensorflow](https://img.shields.io/badge/tensorflow%20-%23F7DF1E.svg?style=for-the-badge&logo=tensorflow&logoColor=black)
 
 <br>
 
@@ -60,16 +60,16 @@
 
 - **Back-End development**:
 
-   ![Node.js](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=nodejs&logoColor=white)
-   ![Flask](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=flask&logoColor=white)
+   ![Node.js](https://img.shields.io/badge/node.js%20-%23E34F26.svg?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Flask](https://img.shields.io/badge/flask%20-%231572B6.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <br>
 
 - **Databases**:
 
-   ![Phpmyadmin](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-   ![Mongodb](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-   ![Mysql](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Phpmyadmin](https://img.shields.io/badge/phpmyadmin%20-%23E34F26.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+   ![Mongodb](https://img.shields.io/badge/mongodb%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![Mysql](https://img.shields.io/badge/mysql%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
 <br>
 
@@ -120,7 +120,6 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -128,7 +127,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/parth-patel-3a662a210/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  parth-patel-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  parthpatel-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
