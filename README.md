@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm Parth Patel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&hearts;++;Self-taught+,;Computer+Science+Student,;ML/AI Enthusiast,;Backend Engineer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -37,6 +37,16 @@
      
 
 <br>   
+ 
+ **ML/AI**:
+
+   ![Pytorch](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+   ![Jupyter](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+   ![Scikitlearn](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=scikitlearn&logoColor=black)
+   ![Tensorflow](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=tensorflow&logoColor=black)
+
+<br>
+
     
 - **Front-End Development**:
 
@@ -46,11 +56,21 @@
 
 <br>
 
-- **Cloud Hosting**:
+- **Back-End development**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+   ![Node.js](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+   ![Flask](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 <br>
+
+- **Databases**:
+
+   ![Phpmyadmin](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+   ![Mongodb](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![Mysql](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
+<br>
+
 
 - **Softwares and Tools**:
 
@@ -105,24 +125,24 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/parth-patel-3a662a210/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  parth-patel-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://leetcode.com/parth147op/" target="_blank">
+<img src="https://img.shields.io/badge/leetcode:  parth147op-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=leetcode&logoColor=white" alt=leetcode style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:parthhpatel2504@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  parthhpatel-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -147,6 +167,3 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
