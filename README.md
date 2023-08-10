@@ -20,8 +20,8 @@
 
 - A Self-taught developer
 - Professional ChatGPT prompt Engineer
-- Currently learning ML and Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]
+- Currently learning ML/AI and Web Development by Self
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1wHDdeJ-wA3IPkl8NaOEs2Mw_F-H_hE1n/view?usp=sharing)
 
 <br><br>
 
